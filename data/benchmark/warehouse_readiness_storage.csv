@@ -1,0 +1,4 @@
+dbms,ingestion_seconds,structure_construction_seconds,readiness_seconds,storage_gib
+MongoDB,352.5,117.5,470.0,2.4
+Cassandra,413.0,177.0,590.0,2.8
+SQL Server,461.5,248.5,710.0,3.2

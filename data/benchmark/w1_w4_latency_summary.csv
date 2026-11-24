@@ -1,0 +1,49 @@
+workload,dbms,dataset_scale_percent,median_ms,iqr_ms,p95_ms,scalability_factor_100_over_25,reported_repetitions
+W1,MongoDB,25,96.0,,,,30
+W1,MongoDB,50,181.1,,,,30
+W1,MongoDB,75,259.4,,,,30
+W1,MongoDB,100,333.8,46.8,381.1,3.48,30
+W1,Cassandra,25,108.2,,,,30
+W1,Cassandra,50,208.6,,,,30
+W1,Cassandra,75,308.8,,,,30
+W1,Cassandra,100,411.7,62.8,509.7,3.8,30
+W1,SQL Server,25,159.2,,,,30
+W1,SQL Server,50,294.2,,,,30
+W1,SQL Server,75,432.8,,,,30
+W1,SQL Server,100,583.5,80.7,698.5,3.67,30
+W2,MongoDB,25,42.6,,,,30
+W2,MongoDB,50,79.0,,,,30
+W2,MongoDB,75,115.62,,,,30
+W2,MongoDB,100,144.63,21.09,174.48,3.4,30
+W2,Cassandra,25,40.13,,,,30
+W2,Cassandra,50,75.76,,,,30
+W2,Cassandra,75,98.31,,,,30
+W2,Cassandra,100,126.72,18.97,148.78,3.16,30
+W2,SQL Server,25,61.41,,,,30
+W2,SQL Server,50,117.17,,,,30
+W2,SQL Server,75,168.29,,,,30
+W2,SQL Server,100,238.25,27.89,267.9,3.88,30
+W3,MongoDB,25,183.93,,,,30
+W3,MongoDB,50,356.02,,,,30
+W3,MongoDB,75,539.73,,,,30
+W3,MongoDB,100,731.11,88.75,872.39,3.98,30
+W3,Cassandra,25,157.36,,,,30
+W3,Cassandra,50,308.2,,,,30
+W3,Cassandra,75,465.42,,,,30
+W3,Cassandra,100,595.25,114.62,716.1,3.78,30
+W3,SQL Server,25,223.4,,,,30
+W3,SQL Server,50,456.73,,,,30
+W3,SQL Server,75,660.22,,,,30
+W3,SQL Server,100,936.31,184.01,1100.23,4.19,30
+W4,MongoDB,25,93.9,,,,30
+W4,MongoDB,50,186.6,,,,30
+W4,MongoDB,75,270.4,,,,30
+W4,MongoDB,100,362.3,58.0,454.2,3.86,30
+W4,Cassandra,25,112.5,,,,30
+W4,Cassandra,50,225.0,,,,30
+W4,Cassandra,75,334.3,,,,30
+W4,Cassandra,100,409.6,94.4,482.9,3.64,30
+W4,SQL Server,25,135.5,,,,30
+W4,SQL Server,50,261.8,,,,30
+W4,SQL Server,75,389.9,,,,30
+W4,SQL Server,100,515.6,95.6,617.2,3.81,30

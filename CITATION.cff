@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when using these reported data summaries."
+title: "SMCS cross-platform social media analytics: reported experimental data summaries"
+type: dataset
+authors:
+  - family-names: "Dabbèchi"
+    given-names: "Hichem"
+keywords:
+  - "NoSQL data warehouse"
+  - "social media analytics"
+  - "multidimensional constellation"
+  - "experimental results"
